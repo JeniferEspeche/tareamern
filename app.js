@@ -28,6 +28,8 @@ for (isoCode in countries){
  */
 function getCountriesBySubregion(subregion){
     //Complete with your code
+    No logro descubrir cual es el metodo que necesito usar
+   
 }
 
 function main() {
